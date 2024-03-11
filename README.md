@@ -33,7 +33,17 @@
 * Implement VADER for sentiment analysis and classification
 * Visualize sentiment analysis results using matplotlib
 ![](https://github.com/eshaque5830/Ishaque_Portfolio/blob/main/images/pia.JPG)
-# [Project 4:Rice Diseases Classification TensorFlow](https://github.com/eshaque5830/Deeplearning_Projects)
+# [Project 4:Rice Diseases Classification TensorFlow](https://github.com/eshaque5830/Deeplearning_Projects/blob/main/rice_disease_classification.ipynb)
+* code implements a Convolutional Neural Network (CNN) using TensorFlow for classifying rice diseases based on input images
+* A sequential CNN model is defined using TensorFlow's Keras API with convolutional, max-pooling, flattening, dropout, and dense layers
+* The model is trained on the training dataset with early stopping to prevent overfitting
+* Model Used: Convolutional Neural Network using TensorFlow
+* Observations:
+* We have 10407, images in train data.
+* We have 10 unique disease classes.
+* We also have 10 variesites of RICE in this data.
+* We have rice plant age ranging from 45 - 85 days.
+* ADT45 is the most common variety inside the training data.
 
 
 
