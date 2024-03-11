@@ -1,5 +1,5 @@
 # Ishaque_Portfolio
-# Project 1: Predicting bank customer churn using Machine Learning
+# [Project 1: Predicting bank customer churn using ML] (https://www.kaggle.com/code/ishaquealidad/bank-churn-xgb-classifier-ipynb)
 * Data Exploration: Summarizing datasets and describing columns.
 * Importing Libraries and loading datasets, exploring data.
 * Data Preparation: Dropping columns, handling categorical variables, and splitting data.
