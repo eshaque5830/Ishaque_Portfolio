@@ -44,7 +44,7 @@
 * We also have 10 variesites of RICE in this data.
 * We have rice plant age ranging from 45 - 85 days.
 * ADT45 is the most common variety inside the training data.
-
+![](https://github.com/eshaque5830/Ishaque_Portfolio/blob/main/images/rice1.JPG)
 
 
 
