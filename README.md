@@ -33,6 +33,8 @@
 * Implement VADER for sentiment analysis and classification
 * Visualize sentiment analysis results using matplotlib
 ![](https://github.com/eshaque5830/Ishaque_Portfolio/blob/main/images/pia.JPG)
+# [Project 4:Rice Diseases Classification TensorFlow](https://github.com/eshaque5830/Deeplearning_Projects)
+
 
 
 
