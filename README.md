@@ -7,6 +7,7 @@
 * Plotting: Visualizing data distribution and count plots
 * Model: Building XGBClassifier, tuning hyperparameters, and evaluating performance
 * Evaluation Summary: Reporting accuracy, precision, recall, and F1 scores for predicting bank customer churn
+![](https://github.com/eshaque5830/Ishaque_Portfolio/blob/main/images/174948746-5dc3418a-8296-4cc8-9561-f8f12ca9a0a4.png)
 
 # [Project 2: Project Heart Disease Prediction UCI](https://www.kaggle.com/code/ishaquealidad/heart-disease-prediction-uci-ipynb)
 
@@ -22,6 +23,7 @@
 * Male percentage in the data: 78.91%
 * Female Percentage in the data: 21.09%
 * Males are 274.23% more than females in the data
+* ![](https://github.com/eshaque5830/Ishaque_Portfolio/blob/main/images/__results___48_0.png)
 # [Project 3:PAKISTAN International Airlines - Sentiment Analysis using VADER](https://www.kaggle.com/code/ishaquealidad/sentiment-analysis-vader-ipynb/edit)
 * VADER (Valence Aware Dictionary and sEntiment Reasoner) is a method that determines the sentiment of a piece of text, such as a sentence or paragraph. VADER is a pre-built, lexicon-based sentiment analysis tool designed for social media text
 * Utilize BeautifulSoup for web scraping Skytrax data on British Airways
@@ -30,6 +32,7 @@
 * Remove stopwords and lemmatize words for root forms
 * Implement VADER for sentiment analysis and classification
 * Visualize sentiment analysis results using matplotlib
+![](https://github.com/eshaque5830/Ishaque_Portfolio/blob/main/images/pia.JPG)
 
 
 
